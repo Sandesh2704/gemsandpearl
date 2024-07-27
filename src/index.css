@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.bgcolor {
+  background-color: #ffefce;
+}
+
+.text-font {
+  font-family: "Frank Ruhl Libre", serif;
+}
+
+.color {
+  color: #d69c3b;
+}
